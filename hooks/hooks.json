@@ -1,0 +1,4 @@
+{
+  "description": "Print the opening mantra and render the persistent auspicious symbol.",
+  "modules": ["./register.js"]
+}
